@@ -66,7 +66,7 @@ We are grateful to every contributor, researcher, and maintainer in these commun
 
 ## Part of Trednets
 
-Evaemon is developed by **[Trednets](https://trednets.com/Trednets)** as part of a broader technology ecosystem focused on deterministic, traceable, and resilient systems.
+Evaemon is developed by **[Trednets](https://trednets.com/)** as part of a broader technology ecosystem focused on deterministic, traceable, and resilient systems.
 
 ---
 
